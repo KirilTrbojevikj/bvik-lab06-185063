@@ -1,0 +1,23 @@
+{
+  "name": "BVIKLAB NFT #8",
+  "image": "https://gateway.pinata.cloud/ipfs/Qmcf2JKdPMgVZZLAbgmQFkht6DRLjASjjZDkrTBKe4W85A/flower8.jpg",
+  "description": "FLOWERS",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Yellow Black-Eyed Susan"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Black-Eyed Susan"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": 10
+    }
+  ]
+}

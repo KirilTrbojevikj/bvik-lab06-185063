@@ -1,0 +1,23 @@
+{
+  "name": "BVIKLAB NFT #3",
+  "image": "https://gateway.pinata.cloud/ipfs/Qmcf2JKdPMgVZZLAbgmQFkht6DRLjASjjZDkrTBKe4W85A/flower3.jpg",
+  "description": "FLOWERS",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Orange Lilie"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Lilies"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": 6
+    }
+  ]
+}

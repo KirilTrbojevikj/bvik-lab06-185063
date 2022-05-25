@@ -1,0 +1,23 @@
+{
+  "name": "BVIKLAB NFT #5",
+  "image": "https://gateway.pinata.cloud/ipfs/Qmcf2JKdPMgVZZLAbgmQFkht6DRLjASjjZDkrTBKe4W85A/flower5.jpg",
+  "description": "FLOWERS",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Pink Everlasting Flower"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Everlasting Flower "
+    },
+    {
+      "trait_type": "Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": 8
+    }
+  ]
+}

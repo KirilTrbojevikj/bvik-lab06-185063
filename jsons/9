@@ -1,0 +1,23 @@
+{
+  "name": "BVIKLAB NFT #9",
+  "image": "https://gateway.pinata.cloud/ipfs/Qmcf2JKdPMgVZZLAbgmQFkht6DRLjASjjZDkrTBKe4W85A/flower9.jpg",
+  "description": "FLOWERS",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Yellow Dahlia"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dahlias"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": 1
+    }
+  ]
+}

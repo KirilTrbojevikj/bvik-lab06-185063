@@ -1,0 +1,23 @@
+{
+  "name": "BVIKLAB NFT #4",
+  "image": "https://gateway.pinata.cloud/ipfs/Qmcf2JKdPMgVZZLAbgmQFkht6DRLjASjjZDkrTBKe4W85A/flower4.jpg",
+  "description": "FLOWERS",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Yellow African Daisy"
+    },
+    {
+      "trait_type": "Type",
+      "value": "African Daisy"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": 8
+    }
+  ]
+}

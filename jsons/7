@@ -1,0 +1,23 @@
+{
+  "name": "BVIKLAB NFT #7",
+  "image": "https://gateway.pinata.cloud/ipfs/Qmcf2JKdPMgVZZLAbgmQFkht6DRLjASjjZDkrTBKe4W85A/flower7.jpg",
+  "description": "FLOWERS",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Sunflower"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Sunflowers"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": 3
+    }
+  ]
+}

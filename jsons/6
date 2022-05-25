@@ -1,0 +1,23 @@
+{
+  "name": "BVIKLAB NFT #6",
+  "image": "https://gateway.pinata.cloud/ipfs/Qmcf2JKdPMgVZZLAbgmQFkht6DRLjASjjZDkrTBKe4W85A/flower6.jpg",
+  "description": "FLOWERS",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Black and White Dahlia"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dahlias"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black and White"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": 5
+    }
+  ]
+}
